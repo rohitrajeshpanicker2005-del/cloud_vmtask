@@ -22,7 +22,7 @@ GitHub Codespaces (Free cloud-based Ubuntu environment)
 
 ## 📸 Screenshots (Dropbox Links)
 - VM running and commands: [Dropbox Link 1](<https://www.dropbox.com/scl/fi/pjjfcedhabxpf1jty8sud/screenshots.png?rlkey=92g4mxpykm5eu2kviqfyr0sx3&st=s21v04w6&dl=0>)  
-- hello.txt output: [Dropbox Link 2](<PASTE_YOUR_LINK_HERE>)
+- hello.txt output: [Dropbox Link 2](<https://www.dropbox.com/scl/fi/k75r8yff4bje3erj2f2ob/hello.png?rlkey=0lyb7fr004ujykc6spkg32jit&st=nad86m2m&dl=0>)
 
 ## 🧩 Outcome
 - Understood creation and access of a virtual machine in the cloud.  
